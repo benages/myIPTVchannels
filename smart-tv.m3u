@@ -533,7 +533,7 @@ rtmp://62.113.210.250/medienasa-live/ok-merseburg_high
 #EXTINF:-1,Studenska TV
 rtmp://213.202.73.202/iskon/studentska_b3.stream
 
-
+#EXTINF:-1 group-title="Noticias",.: NOTICIAS :.
 #EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 #EXTINF:-1,ABC News
