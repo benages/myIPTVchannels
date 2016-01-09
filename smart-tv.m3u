@@ -1,6 +1,6 @@
 #EXTM3U
 
-
+#EXTINF:-1 group-title="Portugues",.: PORTUGUES :.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201.png",RTP 1
 http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%202.png",RTP 2
@@ -14,6 +14,7 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TVI.png",TVI
 http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 
+#EXTINF:-1 group-title="Otros",.: OTROS :.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicn.png",SIC Noticias
 http://213.13.26.12:1935/live/sicnoticias/cookiemonster.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/ECONOMICO%20TV.png",Economico TV
