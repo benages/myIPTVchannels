@@ -564,8 +564,6 @@ http://178.33.126.213:1935/bsx24/mpegts1.stream/chunklist.m3u8?wowzasessionid=12
 http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
 #EXTINF:0, ButGo
 http://edge2.everyon.Tv:1935/etv2sb/phd772/huraivza.m3u8
-#EXTINF:0, Hot Shots TV
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
 #EXTINF:0, Jasmin TV HD
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:0, Japao Hot
@@ -587,11 +585,9 @@ http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3g
 #EXTINF:0, Nefertisex 7
 http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
 #EXTINF:0, Nefertisex 8
-  http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
+http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
 #EXTINF:0, PASSI XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:0, Playy
-http://edge2.everyon.Tv:1935/etv2sb/phd769/huraivza.m3u8
 #EXTINF:0, Private.com
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 #EXTINF:0, Sexstation 
