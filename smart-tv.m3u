@@ -358,8 +358,6 @@ http://91.202.207.166:1234/udp/239.1.11.27:1234
 
 #EXTINF:-1,Tv Gazeta
 http://shflash.directradios.com:1935/gazeta3/stream/live.m3u8
-#EXTINF:-1,Chef TV
-rtmp://flashd.localmidia.com.br:1935/cheftv/aovivo
 #EXTINF:-1,Barntele
 rtmp://rtmp.infomaniak.ch/livecast/barntele
 #EXTINF:-1,RBW
