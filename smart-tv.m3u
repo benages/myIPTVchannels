@@ -354,10 +354,8 @@ http://212.19.7.91:8888/udp/239.191.254.79:13343
 #EXTINF:-1 audio-track="eng",Nat Geo Wild
 http://91.202.207.166:1234/udp/239.1.11.27:1234
 
-#EXTINF:-1 group-title="Por",.: POR :.
+#EXTINF:-1 group-title="Alemania",.: ALEMANIA :.
 
-#EXTINF:-1,Tv Gazeta
-http://shflash.directradios.com:1935/gazeta3/stream/live.m3u8
 #EXTINF:-1,Barntele
 rtmp://rtmp.infomaniak.ch/livecast/barntele
 #EXTINF:-1,RBW
@@ -366,8 +364,6 @@ rtmp://62.113.210.250/medienasa-live/rbw_high
 rtmp://83.169.58.36/live/Stream3
 #EXTINF:-1,Mersburg TV
 rtmp://62.113.210.250/medienasa-live/ok-merseburg_high
-#EXTINF:-1,Studenska TV
-rtmp://213.202.73.202/iskon/studentska_b3.stream
 
 #EXTINF:-1 group-title="Noticias",.: NOTICIAS :.
 #EXTINF:-1,ABC News
