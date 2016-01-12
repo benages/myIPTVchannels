@@ -334,14 +334,6 @@ http://fl729845.live.cdn.frontlayer.net/fl729845/live/media_16362.m3u8
 #EXTINF:-1,TV4 HD
 http://tv4live-i.akamaihd.net/hls/live/200284/akamaihls2/wifi1500_akamaihls2.m3u8
 
-#EXTINF:-1 group-title="Francia",.: FRANCIA :.
-#EXTINF:-1,Tv 5 Monde
-http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8
-#EXTINF:-1,Tva
-http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
-#EXTINF:-1,Weo TV 
-rtmp://str81.creacast.com:80/weo/high
-
 #EXTINF:-1 group-title="Documentales",.: DOCUMENTALES :.
 #EXTINF:-1,RT Documentaries
 http://rt-lh.akamaihd.net/i/ch_05@325609/index_720p_av-b.m3u8?sd=10&rebase=on
