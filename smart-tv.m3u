@@ -492,6 +492,10 @@ http://212.19.7.91:8888/udp/239.191.254.75:13343
 #EXTINF:-1 group-title="Radios",.: RADIOS :.
 #EXTINF:0 radio="true" radio="true" tvg-logo="http://cadenamotor.com/assets/logo-1343419fd76403266e546b4dcf987f01.png", Cadena Motor
 http://server1.20comunicacion.com:8164/stream
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://www.wrc.com/img/logo_wrc-inv.png", WRC Radio
+http://wrcaudio-lh.akamaihd.net/i/wrc_radio_eng_1@308396/master.m3u8
+#EXTINF:0 radio="true" radio="true" tvg-logo="http://www.wrc.com/img/logo_wrc-inv.png", WRC Radio en Español
+http://wrcaudio-lh.akamaihd.net/i/wrc_radio_esp_1@360612/master.m3u8
 #EXTINF:0 radio="true" radio="true" tvg-logo="http://cadenamotor.com/assets/logo-1343419fd76403266e546b4dcf987f01.png", Cadena Motor
 http://pd.npr.org/anon.npr-mp3/npr/pmoney/2016/01/20160115_pmoney_pmoneypod.mp3?dl=1
 
