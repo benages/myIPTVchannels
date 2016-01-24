@@ -25,24 +25,14 @@ http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 rtmp://195.168.51.178/live/ss1HD
 #EXTINF:-1,Slovak Sport 2
 rtmp://195.168.51.178/live/ss2hd
-#EXTINF:-1,IRAK Iraqiya Sport
-http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
 #EXTINF:-1,Sports Night
 rtmp://freeview.fms.visionip.tv:1935/live/sports_tonight-sports_tonight-live-25f-16x9-HD
-#EXTINF:-1,Nbc Sports Golf
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1,Kaz Sport
 http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
 #EXTINF:-1,BS TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/SAT_TOTAL.m3u8
 #EXTINF:-1,Motorsport 1
 http://motorsport.hopto.org:8081/
-#EXTINF:-1 ,Fight Network
-http://178.253.194.68:1935/liveloworigin/fightnetwork.stream/playlist.m3u8
-#EXTINF:0, UFC - ULTIMATE FIGHTING CHAMPIONSHIP
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/75.m3u8
-#EXTINF:-1, XTREME IMPACTS
-http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
 #EXTINF:-1, KAZSPORT
 http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
 
