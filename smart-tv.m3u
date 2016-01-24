@@ -275,12 +275,6 @@ rtmp://fms.pik-tv.com/live/piktv3pik3tv
 rtmp://188.165.135.22/gospeltv/livestream
 
 #EXTINF:-1 group-title="Mexico",.: MEXICO :.
-#EXTINF:-1,Univision
-http://209.133.208.202:1935/app/turbomax-hds-channel/playlist.m3u8
-#EXTINF:-1,Gala Tv
-http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
-#EXTINF:-1,Azteca 7
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1,Azteca Trece 
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 #EXTINF:-1,Canal de las Estrellas
