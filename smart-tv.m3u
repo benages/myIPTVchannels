@@ -365,6 +365,8 @@ rtmp://62.113.210.250/medienasa-live/rbw_high
 rtmp://83.169.58.36/live/Stream3
 #EXTINF:-1,Mersburg TV
 rtmp://62.113.210.250/medienasa-live/ok-merseburg_high
+#EXTINF:0,Tele Basel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/Cookiemonster.m3u8
 
 #EXTINF:-1 group-title="Noticias",.: NOTICIAS :.
 #EXTINF:-1,ABC News
@@ -417,8 +419,6 @@ http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
 rtmp://46.4.25.213:1935/live-ann7/ann7-mid.stream
 #EXTINF:-1,C5N Argentina
 http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
-#EXTINF:0,Tele Basel
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/Cookiemonster.m3u8
 #EXTINF:-1,Raxa TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
