@@ -454,8 +454,6 @@ http://195.189.246.131/russia1_250k.m3u8
 http://91.202.207.166:1234/udp/239.1.10.10:1234
 #EXTINF:-1,D
 http://188.128.118.189:4014
-#EXTINF:-1,Optimistic Channel
-http://212.19.7.91:8888/udp/239.191.254.14:13343
 #EXTINF:-1,Russo Gen 1
 http://sibinformburo.cdnvideo.ru:1935/sibinformburo/sibinformburo.sdp/chunklist.m3u8
 #EXTINF:-1,Russo Gen 2
