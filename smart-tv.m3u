@@ -351,6 +351,8 @@ http://212.19.7.91:8888/udp/239.191.254.9:13343
 http://212.19.7.91:8888/udp/239.191.254.79:13343
 #EXTINF:-1 audio-track="eng",Nat Geo Wild
 http://91.202.207.166:1234/udp/239.1.11.27:1234
+#EXTINF:-1,TLC
+http://212.19.7.91:8888/udp/239.191.254.74:13343
 
 #EXTINF:-1 group-title="Alemania",.: ALEMANIA :.
 #EXTINF:-1,Punktum
@@ -415,14 +417,10 @@ http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
 rtmp://46.4.25.213:1935/live-ann7/ann7-mid.stream
 #EXTINF:-1,C5N Argentina
 http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
-#EXTINF:0, Tele Basel
+#EXTINF:0,Tele Basel
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/Cookiemonster.m3u8
 #EXTINF:-1,Raxa TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:-1,TLC
-http://212.19.7.91:8888/udp/239.191.254.74:13343
-#EXTINF:-1,Mynbt
-http://212.19.7.91:8888/udp/239.191.254.75:13343
 
 #EXTINF:-1 group-title="Videojuegos",.: VIDEOJUEGOS :.
 #EXTINF:-1,Ginx
