@@ -389,12 +389,6 @@ rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_hig
 http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
 #EXTINF:-1,NCDN
 http://108.168.206.90:1935/cdn/cdn/chunklist_w24236728.m3u8
-#EXTINF:-1,CCTV News
-http://origin2.live.web.tv.streamprovider.net/streams/877ba7a57aa68fd898b838f58d51a69f/index.m3u8
-#EXTINF:-1,i24 News
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
-#EXTINF:-1,News Asia
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87cna.smil/playlist.m3u8
 #EXTINF:-1,Telesur
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
 #EXTINF:-1,C5N News
