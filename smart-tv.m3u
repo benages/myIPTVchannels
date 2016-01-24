@@ -73,6 +73,8 @@ http://63.237.48.23/ios/MBC2/MBC2.m3u8
 http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 #EXTINF:-1,Mbc Bollywood
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+#EXTINF:-1,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 
 #EXTINF:-1 group-title="España",.: ESPAÑA :.
 #EXTINF:-1,TVE1
@@ -347,7 +349,8 @@ http://212.19.7.91:8888/udp/239.191.254.79:13343
 http://91.202.207.166:1234/udp/239.1.11.27:1234
 
 #EXTINF:-1 group-title="Alemania",.: ALEMANIA :.
-
+#EXTINF:-1,Punktum
+http://62.113.210.250/medienasa-live/punktum_high/hasbahca.m3u8
 #EXTINF:-1,Barntele
 rtmp://rtmp.infomaniak.ch/livecast/barntele
 #EXTINF:-1,RBW
@@ -392,20 +395,6 @@ http://c5n.stweb.tv:1935/c5n/live_media/sat.m3u8
 http://82.76.249.77:80/digi24edge/digi24hdhqhls/index.m3u8
 #EXTINF:-1,Twit Tech News
 http://iphone-streaming.ustream.tv/ustreamVideo/1524/streams/live/playlist.m3u8
-#EXTINF:-1,London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-#EXTINF:-1,Ginx
-http://204.107.26.252:1935/live/796.high.stream/HasBahCa.m3u8
-#EXTINF:-1,Hitbox
-http://api.hitbox.tv/player/hls/ectvlol.m3u8
-#EXTINF:-1,CCTV 8
-http://ktv010.cdnak.ds.kylintv.net/nlds/kylin/cctv8hd/as/live/cctv8hd_4.m3u8
-#EXTINF:-1,Punktum
-http://62.113.210.250/medienasa-live/punktum_high/hasbahca.m3u8
-#EXTINF:-1,Rbw
-http://62.113.210.250/medienasa-live/rbw_high/hasbahca.m3u8
-#EXTINF:-1,HRT 2
-http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
 #EXTINF:-1,Cpac
 http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
 #EXTINF:-1,Tvm
@@ -430,16 +419,6 @@ rtmp://46.4.25.213:1935/live-ann7/ann7-mid.stream
 http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
 #‎EXTINF‬:-1,:Tele Basel
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/Cookiemonster.m3u8
-#EXTINF:-1,Rouge TV
-http://rtmp.infomaniak.ch/livecast/rougetv/Cookiemonster.m3u8
-#EXTINF:-1,Tele X
-http://rtmp.infomaniak.ch/livecast/latele/Cookiemonster.m3u8
-#EXTINF:-1,Leman Bleu – Suisse
-http://rtmp.infomaniak.ch/livecast/naxoo/Cookiemonster.m3u8
-#EXTINF:-1,TVM3 Suisse
-http://rtmp.infomaniak.ch/livecast/tvm3/Cookiemonster.m3u8
-#EXTINF:-1,Telezuri Suisse
-http://rtmp.infomaniak.ch/livecast/telebielinguech/Cookiemonster.m3u8
 #EXTINF:-1,RT
 http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
 #EXTINF:-1,Poccnr 24
@@ -476,8 +455,6 @@ http://212.19.7.91:8888/udp/239.191.254.4:13343
 http://212.19.7.91:8888/udp/239.191.254.5:13343
 #EXTINF:-1,Russian Extreme
   http://212.19.7.91:8888/udp/239.191.254.6:13343
-#EXTINF:-1,24Doc
-http://212.19.7.91:8888/udp/239.191.254.7:13343
 #EXTINF:-1 audio-track="eng",TV1000
 http://212.19.7.91:8888/udp/239.191.254.8:13343
 #EXTINF:-1 audio-track="eng",TV1000
@@ -486,6 +463,12 @@ http://212.19.7.91:8888/udp/239.191.254.12:13343
 http://212.19.7.91:8888/udp/239.191.254.74:13343
 #EXTINF:-1,Mynbt
 http://212.19.7.91:8888/udp/239.191.254.75:13343
+
+#EXTINF:-1 group-title="Videojuegos",.: VIDEOJUEGOS :.
+#EXTINF:-1,Ginx
+http://204.107.26.252:1935/live/796.high.stream/HasBahCa.m3u8
+#EXTINF:-1,Hitbox
+http://api.hitbox.tv/player/hls/ectvlol.m3u8
 
 #EXTINF:-1 group-title="Radios",.: RADIOS :.
 #EXTINF:0 radio="true" radio="true" tvg-logo="http://cadenamotor.com/assets/logo-1343419fd76403266e546b4dcf987f01.png", Cadena Motor
