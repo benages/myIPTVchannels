@@ -393,10 +393,6 @@ http://108.168.206.90:1935/cdn/cdn/chunklist_w24236728.m3u8
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
 #EXTINF:-1,C5N News
 http://c5n.stweb.tv:1935/c5n/live_media/sat.m3u8
-#EXTINF:-1,Digi 24
-http://82.76.249.77:80/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1,Twit Tech News
-http://iphone-streaming.ustream.tv/ustreamVideo/1524/streams/live/playlist.m3u8
 #EXTINF:-1,Cpac
 http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
 #EXTINF:-1,Tvm
@@ -421,6 +417,8 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 http://204.107.26.252:1935/live/796.high.stream/HasBahCa.m3u8
 #EXTINF:-1,Hitbox
 http://api.hitbox.tv/player/hls/ectvlol.m3u8
+#EXTINF:-1,Twit Tech News
+http://iphone-streaming.ustream.tv/ustreamVideo/1524/streams/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Radios",.: RADIOS :.
 #EXTINF:0 radio="true" radio="true" tvg-logo="http://cadenamotor.com/assets/logo-1343419fd76403266e546b4dcf987f01.png", Cadena Motor
