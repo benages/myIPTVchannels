@@ -13,28 +13,12 @@ rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
 http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
 #EXTINF:-1,Fox Sports AU
 http://motorsport.hopto.org:8080/
-#EXTINF:-1,Eurosport FR  HD
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-#EXTINF:-1,Eurosport 1 ENG
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1,Bein Sports 1
-http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
-#EXTINF:-1,Bein Sports 2
-http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
-#EXTINF:-1,Bein Sports 3 
-http://180.250.29.12/jhos/beib3_3/1424681986/playlist.m3u8
 #EXTINF:-1,Sport Max
 http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
 #EXTINF:-1,CDN Sports Max
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1,Rete Sport 8
 http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
-#EXTINF:-1,Turmen Sports
-http://tv.online.tm/hls/ch004_md/index.m3u8
-#EXTINF:-1,NBA HD
-http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8
-#EXTINF:-1,TVU Ei
-http://srv6.zoeweb.tv:1935/z433-live/stream/livestream.m3u8
 #EXTINF:-1,DXTV
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
 #EXTINF:-1,Slovak Sport 1
