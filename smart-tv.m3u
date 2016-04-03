@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="Deportes",.: DEPORTES :.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/telekanal.png",Telekanal
-http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
+http://uks.mixhive.com:8081/live/low/playlist.m3u8
 #EXTINF:-1,Viasat Sport
 http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 #EXTINF:-1 audio-track="eng",Viasat Sport
