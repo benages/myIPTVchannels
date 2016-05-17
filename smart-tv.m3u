@@ -31,10 +31,6 @@ http://stream.yayindayiz.biz/Bursaspor/bursaspor/SAT_TOTAL.m3u8
 http://motorsport.hopto.org:8081/
 
 #EXTINF:-1 group-title="Peliculas",.: PELICULAS :.
-#EXTINF:-1,Incendio seseña
-http://elpaishls-i.akamaihd.net/hls/live/203572/elpais24x7iosHD/index.m3u8
-#EXTINF:-1,Mbc Max
-http://teledifusionvod.es:7088/html5levantetv/ftplevantetv/HALCONES_Y_PALOMAS/Pgm_hp_09maig_p01_5730f356-1.mp4
 #EXTINF:-1,Mbc 2
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
 #EXTINF:-1,Mbc 4
@@ -43,12 +39,7 @@ http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-#EXTINF:-1 audio-track="eng",TV1000
-http://212.19.7.91:8888/udp/239.191.254.8:13343
-#EXTINF:-1 audio-track="eng",TV1000
-http://212.19.7.91:8888/udp/239.191.254.12:13343
-#EXTINF:-1,TV1000dd
-http://5.134.115.177/s.mkv
+
 
 #EXTINF:-1 group-title="España",.: ESPAÑA :.
 #EXTINF:-1,TVE1
