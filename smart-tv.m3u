@@ -1,36 +1,7 @@
 #EXTM3U
 
-<<<<<<< HEAD
 #EXTINF:-1 group-title="Deportes",.: DEPORTES :.
 =======
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201.png",RTP 1
-http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%202.png",RTP 2
-http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SIC.png",SIC
-http://213.13.26.11:1935/live/sic/cookiemonster.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SIC.png",SIC
-http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TVI.png",TVI
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TVI.png",TVI
-http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicn.png",SIC Noticias
-http://213.13.26.12:1935/live/sicnoticias/cookiemonster.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/ECONOMICO%20TV.png",Economico TV
-rtmp://213.13.26.11/live/etv_direto
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/ECONOMICO%20TV.png",Economico TV
-http://213.13.26.12:1935/live/etv_direto/cookiemonster.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/artv.png",AR TV Parlamento
-rtsp://www.canal.parlamento.pt/Live
-#EXTINF:-1,Cancao Nova
-http://cnhls-lh.akamaihd.net/i/cnhls_1@147036/master.m3u8
-#EXTINF:-1,Capelinha Santuario Fatima
-http://213.13.26.12:1935/live/santuario.stream/PAZ.m3u8
-#EXTINF:-1,Disney Junior BR
-http://37.203.209.34:443/mobile/flash42sd/IPTVGLOBAL.m3u8
 
 #EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",Sport TV Americas FHD
 http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
@@ -38,8 +9,6 @@ http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master1
 http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master2500kbps.m3u8
 #EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",Sport TV Americas SD
 http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master.m3u8
-
->>>>>>> upstream/master
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/telekanal.png",Telekanal
 http://uks.mixhive.com:8081/live/low/playlist.m3u8
 #EXTINF:-1,Viasat Sport
