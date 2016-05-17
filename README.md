@@ -8,14 +8,21 @@ Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram r
 ##Addon surikata TV (Kodi)
 Com base neste projecto, o <b>Discave</b> criou um addon com todas as listas aqui presentes já configuradas. Agora basta adicionar o repositório <b>http://kodi.discavehb.com</b>, instalar o mesmo (discave.repo.zip) e depois adicionar o addon: Discave Repositório > Video addon > <b>"surikata TV"</b>.
 
-##URLs myIPTVChannels (Kodi, VLC, etc.)
+##Tutoriais
+1 - Legendas nos filmes - http://kodiportugal.pt/adicionar-legendas-nos-filmes-e-series/
+
+2 - Configurar SSIPTV em LG webOS 5.x (Legendas PT) - https://www.youtube.com/watch?v=faw-U6Su-0c
+
+3 - Usar várias listas em simultâneo no Kodi - http://kodiportugal.pt/usar-varias-listas-iptv-com-o-playlistloader/
+
+## URLs das listas myIPTVChannels (Kodi, VLC, etc.)
 Portugal Channels: pt.m3u = http://git.io/vZohP
 
 Sports Channels: sports.m3u = http://git.io/vZPSM
 
-Portugal Channels para Wiseplay: pt-wiseplay.wise = http://git.io/v8TRX
+MotorSports Channels:	motorsports.m3u = https://git.io/vai49
 
-Portugal Channels XML: pt.xml = http://git.io/vut0O
+Portugal Channels para Wiseplay: pt-wiseplay.wise = http://git.io/v8TRX
 
 Movies: movies.m3u = http://git.io/vnUb0
 
@@ -23,13 +30,13 @@ TV Shows: tvshows.m3u = http://git.io/vWISS
 
 Music Channels: music.m3u = http://git.io/vZohs
 
+Kids: kids.m3u = http://git.io/vWI93
+
 News Channels: news.m3u = http://git.io/vlxJD
 
 Radios: radios.m3u = http://git.io/vuWqF
 
-United Kingdom UK Channels : uk.m3u = http://git.io/vZMmP
-
-Russia RU Channels: ru.m3u = http://git.io/vZoha
+Internacional: international.m3u = https://git.io/vznaV
 
 Indian IN Channels: hindi.m3u = http://git.io/vZoJg
 
@@ -37,12 +44,16 @@ NASA Space Channels: nasa.m3u = http://git.io/vZPFO
 
 SMART TV (LG, Samsung, Philips): smart-tv.m3u = http://git.io/vZQlR
 
-Kids: kids.m3u = http://git.io/vWI93
+Webcams World / Beaches : webcamsmundoepraias.m3u = http://git.io/vZHox
 
 Adult Channels: adult.m3u = http://git.io/vZiiP
 
-Webcams World / Beaches : webcamsmundoepraias.m3u = http://git.io/vZHox
+## Listas Removidas
+~~Portugal Channels XML: pt.xml = http://git.io/vut0O~~ Deprecated
 
+~~United Kingdom UK Channels : uk.m3u = http://git.io/vZMmP~~ > international.m3u
+
+~~Russia RU Channels: ru.m3u = http://git.io/vZoha~~ > international.m3u
 
 ##Regras
 1) KISS = Keep it simple, stupid (as possible)!
@@ -66,7 +77,7 @@ http://server.name/stream/to/video2
 
 2.1) group-title= Sugiro categorias clean para a organização dos canais.Evitar a criação de novas categorias
 
-2.2) tvg name pode consultar-se o xml do epg.kodiportugal.com
+2.2) tvg name pode consultar-se o xml do epg.kodiportugal.com ou http://kodiportugal.pt/o-nosso-epg-cresceu/
 
 2.3) tvg-id is value of channel id in EPG xml file. If the tag is absent then addon will use tvg-name for map channel to EPG;
 
@@ -84,12 +95,13 @@ audio-track - Audio track definition of this channel, if it's supported by strea
 
 No nosso grupo do Facebook: https://www.facebook.com/groups/listasiptv/
 
-Como usar várias listas ao mesmo tempo no KODI - http://kodiportugal.com/PlayList.pdf
+No blog do Adriano Afonso: http://www.adrianoafonso.net/blog/2015/kodi-no-raspberrypi-mediacenter/
+
 
 ##Channels Sources
 
 ###Portugal
-http://kodiportugal.com/iptv.html
+http://kodiportugal.pt
 Based on Kitina, by Magellan
 
 ###Russia Channels

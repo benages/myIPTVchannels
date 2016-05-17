@@ -1,94 +1,311 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png" group title="Portugal", RTP 1 [SD]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="rtp2.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png" group title="Portugal", RTP 2 [SD]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png", RTP 1 [SD]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
+ 
+#EXTINF:-1 tvg-name="rtp2.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png", RTP 2 [SD]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group title="Portugal", SIC (1) [SD]
-http://213.13.26.11:1935/live/sic/livestream.m3u8
+#EXTINF:-1 tvg-name="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png", SIC [SD]
+http://c.securestreaming.xyz:1935/live/sichjdebiUW6/chunklist_w89969947.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzODA1MiZoYXNoX3ZhbHVlPWI0Y2VjNzdkOWFmNzc5MTlmNjkwOGU0MTE2N2NlZmIzJnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D   conn=S:OK
 
-#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group title="Portugal", SIC (2) [SD]
-http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
-
-#EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png" group title="Portugal", TVI [FSD]
+#EXTINF:-1 tvg-name="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png", SIC [SD]
+http://213.13.26.11:1935/live/sic/magellan.m3u8
+ 
+#EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png", TVI [SD]
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTPNinformacao.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqwusu1445089739.png" group title="Portugal", RTP 3 [SD]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png", TVI [SD]
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
+ 
+#EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png", TVI [SD]
+http://c.securestreaming.xyz:1935/live/tvia801o/chunklist_w530903838.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzOTQwNiZoYXNoX3ZhbHVlPWRmMGMzMzc5OTc1Njk4YWQ3YThmZDYwYjBiMzY3NmQ0JnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
+ 
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png", RTP Açores [SD]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15
+ 
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png", RTP África [SD]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15
+ 
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png", RTP Madeira [SD]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png" group title="Portugal", SIC Notícias (1) [SD]
-http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8
+tvg-id="rtpmemoria.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysyyxw1438185870.png", RTP Memória [SD]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png" group title="Portugal", SIC Notícias (2) [SD]
-rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1
+#EXTINF:-1 tvg-name="RTPi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png", RTP Internacional [SD]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15
 
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group title="Portugal", TVI24 [FSD]
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png", TVI24 [SD]
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8
+
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png", TVI24 [SD]
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 
-#EXTINF:0 tvg-id="CMTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png" audio-track="pt" group title="Portugal", CMTV [SD]
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3236.m3u8
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png", TVI24 [FSD]
+http://www.t12v.com:8000/live/prevot/prevot/808.ts
 
-#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qsxstr1436844125.png" group title="Portugal", Económico TV [FSD]
-http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
+#EXTINF:-1 tvg-name="sicnoticias.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png", SIC Notícias [SD]
+rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/euronews.png",EURONEWS
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 
-#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png" group title="Portugal", Euronews [SD]
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png", Euronews [SD]
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
 
-#EXTINF:-1 tvg-name="RTPi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png" group title="Portugal", RTP Internacional [SD]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qsxstr1436844125.png", Económico TV [FSD]
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png" group title="Portugal", RTP África [SD]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysyyxw1438185870.png" group title="Portugal", RTP Memória [SD]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png" group title="Portugal", RTP Madeira [SD]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png" group title="Portugal", RTP Açores [SD]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="tvL" tvg-logo="http://3.bp.blogspot.com/-jm1Ypp2KzmM/UwVZ1AUxzfI/AAAAAAAAEi4/zdHkMkYTtsk/s1600/Logo_TVL_TVLisboa1.png" group title="Portugal", tvL [HD]
+#EXTINF:0 tvg-id="tvL" tvg-logo="http://3.bp.blogspot.com/-jm1Ypp2KzmM/UwVZ1AUxzfI/AAAAAAAAEi4/zdHkMkYTtsk/s1600/Logo_TVL_TVLisboa1.png", tvL [SD]
 http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
+ 
+#EXTINF:-1 tvg-id="tvc.pt" tvg-logo="http://c3.quickcachr.fotos.sapo.pt/i/P1313c2ba/14950636_1qKLz.jpeg", TV CABO VERDE
+rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713&file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24&live=rtmp://{$hostname}/live/rtc_teste&movref=http%3A%2F%2Fpt.online-television.net%2F952-rtc.html pageUrl=http://pt.online-television.net/952-rtc.html#.VImSJHu8q48 Conn=S:OK live=1
+ 
+#EXTINF:0 tvg-id="TPA" tvg-logo="http://www.thelogodb.com/images/media/logo/rsxstu1436845265.png", TPA Internacional [SD]
+rtmp://fml.6F53.edgecastcdn.net/206F53 playpath=tpai512 swfUrl=http://www.tpai.tv/swf/jwplayer/player.swf?mag live=1 pageUrl=http://www.tpai.tv/live
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rsxstu1436845265.png" group title="Portugal", TPA Internacional [FSD]
-http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png" group title="Portugal", ARTV - Canal Parlamento [SD]
+#EXTINF:0 tvg-id="ARTV" tvg-logo="http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png", ARTV - Canal Parlamento [SD]
 rtsp://www.canal.parlamento.pt/Live
 
-#EXTINF:-1 tvg-name="axn.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yusrru1445113463.png" group title="Portugal", AXN [SD]
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3255.m3u8
-#EXTINF:-1 tvg-name="AXNWhite.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/sqrpvs1445114021.png" group title="Portugal", AXN White [SD]
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3242.m3u8
-#EXTINF:-1 tvg-name="fox.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rwptru1436892145.png" group title="Portugal", FOX [SD]
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3232.m3u8
-#EXTINF:-1 tvg-name="foxcrime.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xrqpsr1435103548.png" group title="Portugal", FOX Crime [SD]
-http://portal.rapidiptv.com:8080/live/mondi/mondi/5549.m3u8
-#EXTINF:-1 tvg-name="foxlife.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qurqxu1434048222.png" group title="Portugal", FOX Life [SD]
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3233.m3u8
-#EXTINF:-1 tvg-name="foxmovies.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/sxuwxq1435104089.png" group title="Portugal", FOX Movies [SD]
-http://portal.rapidiptv.com:8080/live/mondi/mondi/5550.m3u8
-#EXTINF:-1  audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/vqtrqu1436898965.png" group title="Portugal", Hollywood [SD]
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3307.m3u8
-#EXTINF:-1 tvg-name="SyFy.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png" group title="Portugal", SYFY [SD]
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3226.m3u8
-#EXTINF:-1 audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/vsvuyy1433357902.png" group title="Portugal", TVI Ficção [SD]
-http://portal.rapidiptv.com:8080/live/mondi/mondi/5542.m3u8
+#EXTINF:0 tvg-id="TV CIENCIA .pt" tvg-logo="http://tv-online.in/wp-content/uploads/2012/11/TV-Ciencia.jpg", TV CIÊNCIA [SD]
+mms://video-wm.tvciencia.pt/video/tvcnews_256.wmv
 
-#EXTINF:-1, [B]--- Brasil ---[/B]
+#EXTINF:-1 tvg-id="SIC Radical" tvg-logo="http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png", SIC Radical
+http://www.t12v.com:8000/live/prevot/prevot/1159.ts
+
+#EXTINF:-1 tvg-id="SIC Radical" tvg-logo="http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png", SIC Radical
+rtmp://178.162.199.155/live playpath=sicradicalx?id=84768&pk=85c415f79033d2a878f40b15c0ef8cd9b8825bb817f894af546ce71d50b6d757 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/sicradicalx/1/599/399 conn=S:OK
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png", SIC CARAS [FSD]
+http://www.t12v.com:8000/live/prevot/prevot/1422.ts
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vtqwvs1433430264.png", + TVI [FSD]
+http://luckyiptv.ddns.net:23000/live/andi/andi/12054.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a1/Log%C3%B3tipo_TVI_Fic%C3%A7%C3%A3o.png", TVI Ficção [FSD]
+http://c.securestreaming.xyz:1935/live/tvificcao3dVQo/chunklist_w1769820660.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzQzMTY4MiZoYXNoX3ZhbHVlPTU5NDRlNThmZTg1OTFhMDZkZDA3ZDU4ZjBlNzEyNzkzJnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
+
+#EXTINF:-1 tvg-id="CancaoNova.PT" tvg-logo="http://diocesedelorena.com/wp-content/uploads/2013/12/Marca-Can%C3%A7%C3%A3o-Nova-2010.png", Canção Nova
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+
+================================================================================================================================
+
+#EXTINF:-1, [COLOR red][B]--- Temáticos ---[/B][/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png" group-title="Brasil", Record
-http://174.37.99.198:1935/dvrid1816/1816/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="caca & Pesca" tvg-logo="http://www.thelogodb.com/images/media/logo/vxwput1438005508.png",CACA E PESCA SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3494.ts
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/usvxwq1433945505.png" group-title="Brasil", Discovery Channel
-http://37.203.209.34:443/mobile/flash14sd/Live.m3u8
+#EXTINF:-1 tvg-id="E! TV" tvg-logo="http://www.thelogodb.com/images/media/logo/qxrvyy1433355456.png", E! ENTERTAINMENT  SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3483.ts
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uvsyur1433943132.png" group-title="Brasil", Disney Junior Brasil [SD]
-http://bit.ly/IPTVGlobal-disneyjr
+#EXTINF:-1 tvg-id="Toros TV" tvg-logo="http://www.thelogodb.com/images/media/logo/xxxuts1436895323.png",TOROS TV SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3450.ts
 
-#EXTINF:-1 group-title="Brasil", Zoomoo Brasil [SD]
-http://wowza1.videos.movile.com:8080/live/smil:infantil_1.smil/playlist.m3u8?BRSTUGA
+#EXTINF:0 tvg-id="Porto Canal" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png", Porto Canal
+http://cp.dmbshare.net:8000/live/whelan/whelan/3467.ts
+
+#EXTINF:-1 tvg-name="CM TV" audio-track="pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg", CM TV [FSD]
+http://cp.dmbshare.net:8000/live/whelan/whelan/3488.ts
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png", A BOLA TV SD [COLOR red]OFF[/COLOR]
+http://c.securestreaming.xyz:1935/live/bolaZirMR/chunklist_w1779729088.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzM1NTk2NCZoYXNoX3ZhbHVlPTY1NjdlMDI2OWFiMTBjZTFmMWMzYmNjMjc3ZTYyODhlJnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qyxuwt1433346085.png", MOTORS TV 
+http://cp.dmbshare.net:8000/live/whelan/whelan/3474.ts
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qpsqps1436892971.png", 24 KITCHEN HD[COLOR red]OFF[/COLOR]
+http://www.t12v.com:8000/live/prevot/prevot/1187.ts
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/spurwy1433945957.png", NATIONAL GEOGRAPHIC SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3471.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/discoverychannel.png", Discovery SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3487.ts
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wxyrrw1433944455.png", CANAL HISTORIA SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3493.ts
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png", ODISSEIA SD
+http://cp.dmbshare.net:8000/live/whelan/whelan/3469.ts
+
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uuwqyv1444921041.png", TRAVEL CHANNEL [COLOR red]OFF[/COLOR]
+http://live-823.gv2.edge.filmon.com/live/842.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3c5b5f0d269da43179c8bd44a526831a07c6191ab2b3655b1562da01a6d1162f233f88144629f0fa3a567a7fa142a443fa4a87828dab175da0ebb7cfd7f7bd68ae16c689c4587c9c085aa5b9f87a462afb7f7256090a62faa3390182f9852ddbc9d38b8d314f9efde6277dbbaa292e42452623ac7b428a8f3 conn=S:OK
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tywuvw1434287895.png", CBS Reality [COLOR red]OFF[/COLOR]
+http://luckyiptv.ddns.net:23000/live/andi/andi/12077.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png", A&E Latino
+http://cp.dmbshare.net:8000/live/whelan/whelan/3500.ts
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tssypq1449496871.png", AMC  [COLOR red]OFF[/COLOR]
+rtmp://watch9.streamlive.to:1935/edge/_definst_/?xs=_we_N3BjdG1yZTB6ZndzYzI0fDE0NTc1MTI3MTJ8ODMuNzcuMjA5LjEwMnw1NmRlOGY4ODNjMTUyfDk2YTY0YzI0NDcwMjRjM2JjZTM2NTI3ZDM1OWRhODNlOWI0ZTgzMmE. playpath=7pctmre0zfwsc24 swfUrl=http://www.streamlive.to/ads/embed/player_ilive_embed.swf pageUrl=http://www.streamlive.to/embedplayer_new2.php?width=960&height=530&channel=68963&autoplay=true conn=S:OK
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png", SYFY  [COLOR red]OFF[/COLOR]
+http://evolive-tv.com:8000/live/balla/balla/288.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vvuxwx1433431651.png", FX Portugal [COLOR red]OFF[/COLOR]
+http://hyper.de1-eu.com:8000/live/saeid/saeid/665.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yusxxt1452596924.png", MOV HD 
+http://cp.dmbshare.net:8000/live/whelan/whelan/3473.ts
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rwptru1436892145.png", FOX [SD] 
+http://cp.dmbshare.net:8000/live/whelan/whelan/3480.ts
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xrqpsr1435103548.png", FOX Crime [SD] 
+http://cp.dmbshare.net:8000/live/whelan/whelan/3479.ts
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qurqxu1434048222.png", FOX Life 
+http://cp.dmbshare.net:8000/live/whelan/whelan/3478.ts
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sxrrvv1436890227.png", FOX Movies [COLOR red]OFF[/COLOR]
+http://www.t12v.com:8000/live/prevot/prevot/1148.ts
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rrrvxy1436845857.png", CineMundo [COLOR red]OFF[/COLOR]
+http://hyper.de1-eu.com:8000/live/saeid/saeid/672.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yusrru1445113463.png", AXN [SD] 
+http://cp.dmbshare.net:8000/live/whelan/whelan/3498.ts
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vsyrsv1445114274.png", AXN BLACK [COLOR red]OFF[/COLOR]
+http://www.t12v.com:8000/live/prevot/prevot/1156.ts
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vqtrqu1436898965.png", Hollywood [SD]
+http://cp.dmbshare.net:8000/live/whelan/whelan/3475.ts
+
+#EXTINF:-1,TV Cine 1
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/936.m3u8
+
+#EXTINF:-1,TV Cine 2
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/935.m3u8
+
+#EXTINF:-1,TV Cine 3
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/934.m3u8
+
+#EXTINF:-1,TV Cine 4
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/933.m3u8
+
+#EXTINF:-1,TV Cine Series
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/930.m3u8
+
+======================================================================================================
+
+
+#EXTINF:-1, [COLOR red][B]--- Desporto ---[/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1,SPORTS USA 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+ 
+#EXTINF:-1, FIGHT SPORT 
+http://118.97.183.222:1935/discover/fight/playlist.m3u8
+ 
+#EXTINF:-1,POKER CENTRAL
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+ 
+#EXTINF:-1,DXTV SPORTS
+http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8
+ 
+#EXTINF:-1,UFC (CHI)
+rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
+ 
+#EXTINF:-1,FIGHTER CHANNEL (RUS) 
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+ 
+#EXTINF:-1,KAZSPORT (KAZ)
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+
+#EXTINF:-1, [COLOR red][B]--- Musica ---[/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1,ROUGE TV HQ
+http://wownet.ro/str/0241.m3u8|X-Forwarded-For=81.17.18.50&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+
+#EXTINF:-1,Deluxe Music
+http://wownet.ro/str/0065.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1,Kiss Tv Music
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+#EXTINF:-1,VEVO ROCK TV
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:-1,VEVO MUSIC TV
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:-1,IBIZA 
+http://www.djing.com/tv/d-05.m3u8
+
+#EXTINF:-1,ANIMATION 
+http://www.djing.com/tv/a-05.m3u8
+
+#EXTINF:-1,DJING CLASSIC
+http://www.djing.com/tv/i-05.m3u8
+
+#EXTINF:-1,JUCE TV 
+http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
+
+#EXTINF:-1,RADIO MONTE CARLO TV 
+rtmp://fms.105.net:1935/live/rmc1
+
+#EXTINF:-1,CAPITAL TV 
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,HEART TV 
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,VIRGIN TV
+rtmp://fms.105.net:1935/live/virgin2
+
+#EXTINF:-1,M6 MUSIC 
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+
+#EXTINF:-1,RADIO U TV 
+rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/ playpath=mp4:radioutv1 swfUrl=http://radiou.com/jwplayer/jwplayer.flash.swf pageUrl=http://radiou.com/tv/
+
+#EXTINF:-1,UNDERGROUND
+http://www.djing.com/tv/underground.m3u8
+
+#EXTINF:-1,DANCEFLOOR
+http://www.djing.com/tv/dancefloor.m3u8
+
+#EXTINF:-1,DREAM TV 
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1,CLUBLAND 
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,MI MUSICA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+
+#EXTINF:-1,TIGO MUSIC
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+
+#EXTINF:-1,TRENDY MUSICA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
+
+#EXTINF:-1,REAL HIP HOP TV 
+http://rhn.tulix.tv/live/Stream1/playlist.m3u8
+
+#EXTINF:-1,MIAMI MUSIC TV 
+http://74.208.152.93/music/stream3/stream.m3u8
+
+#EXTINF:-1,ROUGE TV 
+http://rtmp.infomaniak.ch/livecast/rougetv/hasbahca.m3u8
+
+#EXTINF:-1,NRJ HITS
+rtsp://5.196.138.6:1935/live/nrjbelgique_360p
+
+#EXTINF:-1,MFM TV
+http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
+
+#EXTINF:-1,MOLA TV 
+http://archlinux.frigola.cat:8080/mola/directe.m3u8
+
+#EXTINF:-1,SPORTTIME 1 
+http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel1_800.mp4.m3u8
+
