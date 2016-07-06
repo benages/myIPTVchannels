@@ -13,6 +13,8 @@ http://video.debconf.org/menzies-9-low.webm
 http://video.debconf.org/menzies-12.webm
 #EXTINF:-1 tvg-id="menzies 12 low"
 http://video.debconf.org/menzies-12-low.webm
+#EXTINF:-1 tvg-id="CTTE"
+http://meetings-archive.debian.net/pub/debian-meetings/2016/debconf16/Meet_the_CTTE.webm
 
 #EXTINF:-1 group-title="Deportes",.: DEPORTES :.
 #EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",Sport TV Americas SD
