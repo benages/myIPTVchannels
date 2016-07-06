@@ -1,5 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Debconf 2016",.: DEPORTES :.
+#EXTINF:-1 tvg-id="menzies 10"
+http://video.debconf.org/menzies-10.webm
+#EXTINF:-1 tvg-id="menzies 10 low"
+http://video.debconf.org/menzies-10-low.webm
+#EXTINF:-1 tvg-id="menzies 9"
+http://video.debconf.org/menzies-9.webm
+#EXTINF:-1 tvg-id="menzies 9 low"
+http://video.debconf.org/menzies-9-low.webm
+#EXTINF:-1 tvg-id="menzies 12"
+http://video.debconf.org/menzies-12.webm
+#EXTINF:-1 tvg-id="menzies 12 low"
+http://video.debconf.org/menzies-12-low.webm
+
 #EXTINF:-1 group-title="Deportes",.: DEPORTES :.
 #EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",Sport TV Americas SD
 http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master.m3u8
