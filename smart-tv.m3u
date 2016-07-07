@@ -13,8 +13,6 @@ http://video.debconf.org/menzies-9-low.webm
 http://video.debconf.org/menzies-12.webm
 #EXTINF:-1, menzies 12 low 
 http://video.debconf.org/menzies-12-low.webm
-#EXTINF:-1, Keysigning
-http://meetings-archive.debian.net/pub/debian-meetings/2016/debconf16/Continuous_Keysigning_Introduction.webm
 #EXTINF:-1, Kali linux
 http://www.benages.eu:8090/IoT.mkv
 
