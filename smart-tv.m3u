@@ -1,19 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Debconf16",.: DEBCONF16 :.
-#EXTINF:-1, menzies 10
-http://video.debconf.org/menzies-10.webm
 #EXTINF:-1, menzies 10 low
 http://video.debconf.org/menzies-10-low.webm
-#EXTINF:-1, menzies 9 
-http://video.debconf.org/menzies-9.webm
 #EXTINF:-1, menzies 9 low 
 http://video.debconf.org/menzies-9-low.webm
-#EXTINF:-1, menzies 12 
-http://video.debconf.org/menzies-12.webm
 #EXTINF:-1, menzies 12 low 
 http://video.debconf.org/menzies-12-low.webm
-#EXTINF:-1, Kali linux
+#EXTINF:-1, Traducidos
 http://www.benages.eu:8090/IoT.mkv
 
 #EXTINF:-1 group-title="Deportes",.: DEPORTES :.
