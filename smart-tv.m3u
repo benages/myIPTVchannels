@@ -7,8 +7,8 @@ http://video.debconf.org/menzies-10-low.webm
 http://video.debconf.org/menzies-9-low.webm
 #EXTINF:-1, menzies 12 low 
 http://video.debconf.org/menzies-12-low.webm
-#EXTINF:-1, Traducidos
-http://www.benages.eu:8090/IoT.mkv
+#EXTINF:-1, Charlas en MKV
+http://92.222.70.80:2015/appstream.mkv
 
 #EXTINF:-1 group-title="Deportes",.: DEPORTES :.
 #EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",Sport TV Americas SD
