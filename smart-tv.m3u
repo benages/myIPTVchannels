@@ -1,8 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Debconf16",.: DEBCONF16 :.
-#EXTINF:-1, menzies 10 low
-http://video.debconf.org/menzies-10-low.webm
+#EXTINF:-1, sonic boom
+http://mvod.tcdn.rtve.es/resources/TE_GLEAD/mp4/0/9/1461869287790.mp4
 #EXTINF:-1, menzies 9 low 
 http://video.debconf.org/menzies-9-low.webm
 #EXTINF:-1, menzies 12 low 
