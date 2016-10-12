@@ -50,6 +50,8 @@ http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 
 
 #EXTINF:-1 group-title="España",.: ESPAÑA :.
+#EXTINF:-1,Aragón TV
+http://163.172.24.200/hls/aragontv_aragontv_600/index.m3u8
 #EXTINF:-1,TVE1
 http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1,TVE1
