@@ -1,8 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Debconf16",.: DEBCONF16 :.
-#EXTINF:-1, WRC
-http://benages.eu/2016.mkv
+#EXTINF:-1, Opera
+http://92.222.70.80:2015/Opera.mp4
 #EXTINF:-1, menzies 9 low 
 http://video.debconf.org/menzies-9-low.webm
 #EXTINF:-1, menzies 12 low 
