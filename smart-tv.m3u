@@ -7,8 +7,8 @@ http://92.222.70.80:2015/Opera.mp4
 http://arteopera.gl-systemhaus.de/am/opera/060000/060400/060440-009-A_SQ_0_VO-STE%5BANG%5D_02528397_MP4-2200_AMM-OPERA.mp4
 #EXTINF:-1, Cosi fan tutte 
 http://arteconcert.gl-systemhaus.de/am/concert/068000/068900/068979-002-C_EQ_0_VA_02427301_MP4-1500_AMM-ALW.mp4
-#EXTINF:-1, Charlas en MKV
-http://92.222.70.80:2015/appstream.mkv
+#EXTINF:-1, Sopcast
+sop://broker.sopcast.com:3912/262490
 
 #EXTINF:-1 group-title="Deportes",.: DEPORTES :.
 #EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",Sport TV Americas SD
