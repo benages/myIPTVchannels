@@ -1,8 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Debconf16",.: DEBCONF16 :.
-#EXTINF:-1, vimeo
-https://fpdl.vimeocdn.com/vimeo-prod-skyfire-std-us/01/290/7/176453149/573122586.mp4?token=58064ddd_0x7f5fce634c8d3fc77b4f09c6b0a8910
+#EXTINF:-1, monica
+http://benages.eu:2015/monica.mp4
 #EXTINF:-1, Arte 
 http://arteopera.gl-systemhaus.de/am/opera/060000/060400/060440-009-A_SQ_0_VO-STE%5BANG%5D_02528397_MP4-2200_AMM-OPERA.mp4
 #EXTINF:-1, Cosi fan tutte 
