@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Debconf16",.: DEBCONF16 :.
-#EXTINF:-1, monica
-http://benages.eu:2015/monica.mp4
+#EXTINF:-1 group-title="Opera",.: DEBCONF16 :.
+#EXTINF:-1, PELLÉAS ET MÉLISANDE
+http://arteopera.gl-systemhaus.de/am/opera/068000/068900/068979-001-C_EQ_0_VO-STE%5BESP%5D_02439680_MP4-1500_AMM-OPERA.mp4
 #EXTINF:-1, Arte 
 http://arteopera.gl-systemhaus.de/am/opera/060000/060400/060440-009-A_SQ_0_VO-STE%5BANG%5D_02528397_MP4-2200_AMM-OPERA.mp4
 #EXTINF:-1, Cosi fan tutte 
