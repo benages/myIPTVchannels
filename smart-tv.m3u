@@ -1,18 +1,40 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Opera",.: DEBCONF16 :.
+#EXTINF:-1, Cosi fan tutte
+http://arteconcert.gl-systemhaus.de/am/concert/068000/068900/068979-002-C_EQ_0_VA_02427301_MP4-1500_AMM-ALW.mp4
+#EXTINF:-1, Reigen
+http://arteopera.gl-systemhaus.de/am/opera/067000/067900/067918-000-B_MQ_0_VO-STA_02351342_MP4-300_AMM-OPERA.mp4
+#EXTINF:-1, Pique Dame
+http://arteopera.gl-systemhaus.de/am/opera/060000/060400/060444-012-B_MQ_0_VO-STA_02419222_MP4-300_AMM-OPERA.mp4
+#EXTINF:-1, In Parenthesis
+http://arteopera.gl-systemhaus.de/am/opera/067000/067900/067920-000-A_MQ_0_VO-STA_02408522_MP4-300_AMM-OPERA.mp4
+#EXTINF:-1, Machbetch
+http://arteopera.gl-systemhaus.de/am/opera/067000/067900/067919-000-B_MQ_0_VO-STA_02422367_MP4-300_AMM-OPERA.mp4
 #EXTINF:-1, PELLÉAS ET MÉLISANDE
 http://arteopera.gl-systemhaus.de/am/opera/068000/068900/068979-001-C_EQ_0_VO-STE%5BESP%5D_02439680_MP4-1500_AMM-OPERA.mp4
-#EXTINF:-1, Arte 
-http://arteopera.gl-systemhaus.de/am/opera/060000/060400/060440-009-A_SQ_0_VO-STE%5BANG%5D_02528397_MP4-2200_AMM-OPERA.mp4
-#EXTINF:-1, Cosi fan tutte 
-http://arteconcert.gl-systemhaus.de/am/concert/068000/068900/068979-002-C_EQ_0_VA_02427301_MP4-1500_AMM-ALW.mp4
+#EXTINF:-1, Jewgeni Onegin
+http://arteopera.gl-systemhaus.de/am/opera/060000/060500/060511-103-A_MQ_0_VO_02470171_MP4-300_AMM-OPERA.mp4
+#EXTINF:-1, Otello
+http://arteopera.gl-systemhaus.de/am/opera/060000/060300/060338-009-B_MQ_0_VO_02514976_MP4-300_AMM-OPERA.mp4
+#EXTINF:-1, Le Nozze di Figaro
+http://arteopera.gl-systemhaus.de/am/opera/060000/060400/060444-013-B_MQ_0_VO_02530044_MP4-300_AMM-OPERA.mp4
+#EXTINF:-1, Schreker - DIE GEZEICHNETEN
+http://arteopera.gl-systemhaus.de/am/opera/060000/060400/060440-009-A_MQ_0_VO-STA_02527731_MP4-300_AMM-OPERA.mp4
+#EXTINF:-1, Sancta Susanna
+http://arteopera.gl-systemhaus.de/am/opera/060000/060400/060440-004-A_MQ_0_VO_02533999_MP4-300_AMM-OPERA.mp4
+#EXTINF:-1, Von Heute auf Morgen
+http://arteopera.gl-systemhaus.de/am/opera/060000/060400/060440-006-A_MQ_0_VO_02531114_MP4-300_AMM-OPERA.mp4
+#EXTINF:-1, La Cenerentola
+http://arteopera.gl-systemhaus.de/am/opera/060000/060500/060511-108-B_MQ_0_VO_02552011_MP4-300_AMM-OPERA.mp4
+#EXTINF:-1, La Boheme
+http://arteopera.gl-systemhaus.de/am/opera/060000/060400/060443-005-A_MQ_0_VO_02550643_MP4-300_AMM-OPERA.mp4
+
+#EXTINF:-1 group-title="Deportes",.: DEPORTES :.
 #EXTINF:-1, Sopcast on
 http://92.222.70.80:8908/tv.asf
 #EXTINF:-1, Sopcast 2
 sop://broker.sopcast.com:3912/262490
-
-#EXTINF:-1 group-title="Deportes",.: DEPORTES :.
 #EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",Sport TV Americas SD
 http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/telekanal.png",Telekanal
