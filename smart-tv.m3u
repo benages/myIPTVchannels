@@ -1,6 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Opera",.: DEBCONF16 :.
+#EXTINF:-1 group-title="Otros",.: OTROS :.
+#EXTINF:-1, Charla
+https://juanjo.cozycloud.cc/public/files/files/002fed51b90bf66f2095dae22105384f/attach/638735570.mp4
+
+#EXTINF:-1 group-title="Opera",.: OPERA :.
 #EXTINF:-1, Cosi fan tutte
 http://arteconcert.gl-systemhaus.de/am/concert/068000/068900/068979-002-C_EQ_0_VA_02427301_MP4-1500_AMM-ALW.mp4
 #EXTINF:-1, Reigen
