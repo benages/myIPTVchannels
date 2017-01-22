@@ -3,6 +3,11 @@
 #EXTINF:-1 group-title="WRC",.: WRC :.
 #EXTINF:-1, Day One
 https://liveredbulltv02-i.akamaihd.net/hls/live/266257/170120WRCPri/master.m3u8
+#EXTINF:-1, Super Stage
+https://liveredbulltv02-i.akamaihd.net/hls/live/266260/170121WRCSuperBU/master.m3u8
+#EXTINF:-1, Day Two
+https://liveredbulltv02-i.akamaihd.net/hls/live/266261/170121WRCrecapPri/master.m3u8
+
 
 #EXTINF:-1 group-title="Otros",.: OTROS :.
 #EXTINF:-1, Charla
