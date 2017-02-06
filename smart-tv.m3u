@@ -137,24 +137,20 @@ http://media3.crtvg.es/live/tvga/playlist.m3u8
 http://media3.crtvg.es/live/tvge/playlist.m3u8
 #EXTINF:-1,Mega
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
-#EXTINF:-1,Tele B
-http://directe.tvbadalona.cat:1935/live/myStream.sdp/.m3u8
 #EXTINF:-1,Tele Bilbao 
-rtmp://178.32.53.254/telebilbao/livestream 
+http://cls.telebilbao.es/telebilbao/livestream/playlist.m3u8
 #EXTINF:-1,Levante TV
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
 #EXTINF:1,Mediterranea TV
 http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8
 #EXTINF:-1,Castellón TV
-http://streaming.enetres.net:80/B280DE9FE5AD42E9B9BFD56A0E2CA414021/mobile/playlist.m3u8?idLive=021&referer=TkQ=
+http://streaming.enetres.net:80/B280DE9FE5AD42E9B9BFD56A0E2CA414021/mobile/playlist.m3u8
 #EXTINF:-1,Asturias
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 #EXTINF:-1,Extremadura Tv
-http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 #EXTINF:-1,Castilla La Mancha
 http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
-#EXTINF:-1,Castilla La Mancha
-http://195.55.74.210/rtvcm/live.flv?GKID=a9b379844fff11e5a75100163ea2c744 
 #EXTINF:-1,ETB
 http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8
 #EXTINF:-1,ElCorreoTV
@@ -163,7 +159,7 @@ http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 #EXTINF:-1,RTVB 
 http://188.165.135.22/rtvd/livestream/chunklist_w662830705.m3u8 
-#EXTINF:-1,TV4 
+#EXTINF:-1,TV4 La Vall d'Uixó
 http://188.165.135.22/15o8376r/mystream/chunklist_w1954944775.m3u8 
 
 #EXTINF:-1 group-title="Musica",.: MUSICA :.
