@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="WRC",.: WRC :.
-#EXTINF:-1, Day One
-https://liveredbulltv02-i.akamaihd.net/hls/live/266257/170120WRCPri/master.m3u8
+#EXTINF:-1 group-title="Fosdem",.: WRC :.
+#EXTINF:-1, My bsd suck less
+http://video.fosdem.org/2017/K.3.201/my_bsd_sucks_less.mp4
 #EXTINF:-1, Super Stage
 https://liveredbulltv02-i.akamaihd.net/hls/live/266260/170121WRCSuperBU/master.m3u8
 #EXTINF:-1, Day Two
