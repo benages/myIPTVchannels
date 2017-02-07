@@ -3,13 +3,10 @@
 #EXTINF:-1 group-title="Fosdem",.: WRC :.
 #EXTINF:-1, My bsd suck less
 http://video.fosdem.org/2017/K.3.201/my_bsd_sucks_less.mp4
-#EXTINF:-1, Super Stage
-https://liveredbulltv02-i.akamaihd.net/hls/live/266260/170121WRCSuperBU/master.m3u8
+#EXTINF:-1, Mozilla Root Program
+http://video.fosdem.org/2017/H.1301/mozilla_root_program.mp4
 #EXTINF:-1, Day Two
 https://liveredbulltv02-i.akamaihd.net/hls/live/266261/170121WRCrecapPri/master.m3u8
-
-
-#EXTINF:-1 group-title="Otros",.: OTROS :.
 #EXTINF:-1, Charla
 https://juanjo.cozycloud.cc/public/files/files/002fed51b90bf66f2095dae22105384f/attach/638735570.mp4
 #EXTINF:-1, Florian Cramer AltR Talk
