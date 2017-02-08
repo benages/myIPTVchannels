@@ -5,8 +5,8 @@
 http://video.fosdem.org/2017/K.3.201/my_bsd_sucks_less.mp4
 #EXTINF:-1, Mozilla Root Program
 http://video.fosdem.org/2017/H.1301/mozilla_root_program.mp4
-#EXTINF:-1, Day Two
-https://liveredbulltv02-i.akamaihd.net/hls/live/266261/170121WRCrecapPri/master.m3u8
+#EXTINF:-1, Wireguard
+http://video.fosdem.org/2017/Janson/wireguard.mp4
 #EXTINF:-1, Charla
 https://juanjo.cozycloud.cc/public/files/files/002fed51b90bf66f2095dae22105384f/attach/638735570.mp4
 #EXTINF:-1, Florian Cramer AltR Talk
@@ -138,7 +138,7 @@ http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
 http://cls.telebilbao.es/telebilbao/livestream/playlist.m3u8
 #EXTINF:-1,Levante TV
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
-#EXTINF:1,Mediterranea TV
+#EXTINF:1,Mediterraneo TV
 http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8
 #EXTINF:-1,Castellón TV
 http://streaming.enetres.net:80/B280DE9FE5AD42E9B9BFD56A0E2CA414021/mobile/playlist.m3u8
